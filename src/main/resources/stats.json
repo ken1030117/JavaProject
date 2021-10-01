@@ -1,0 +1,15 @@
+{
+  "nbReclamationValide": 0,
+  "nbDemandeRejetee": 0,
+  "soins":   [
+    {"Ostéopathie": 0},
+    {"Psychologie individuelle": 0},
+    {"Soins dentaires": 0},
+    {"Physiothérapie": 0},
+    {"Médecin généraliste privé": 0},
+    {"Orthophonie, ergothérapie": 0},
+    {"Naturopathie, acuponcture": 0},
+    {"Chiropratie": 0},
+    {"Massothérapie": 0}
+  ]
+}
